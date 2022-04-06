@@ -1,0 +1,1 @@
+cifar_10 is a computer vision dataset, used for object recognition
